@@ -2,14 +2,15 @@
 ## Datos generales
 
 - Practica: Practica 1
-- Curso: Introduccion a la programacion y computacion 1
-- Grupo:
+- Curso: Introduccion a la Programacion y Computación 1
 
 ---
 
-## Descripcion del programa
+## Información General:
 
-El programa es un sistema para manejar las reservaciones de vuelo de la aerolinea Aero-USAC. Se ejecuta en consola y permite vender boletos, buscar asientos, ver el mapa del avion y generar un reporte.
+El programa es una funcionalidad diseñada para gestionar las reservaciones de vuelo de la aerolinea Aero-USAC. 
+
+Alcance y Funcionalidades: Se ejecuta en consola y permite vender boletos, buscar asientos, ver el mapa del avion y generar un reporte del uso de los asientos.
 
 El avion tiene 20 filas y 6 columnas (A B C D E F) lo que da 120 asientos en total. Las primeras 5 filas son primera clase y las demas son economica.
 
