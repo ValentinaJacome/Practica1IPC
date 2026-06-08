@@ -1,7 +1,7 @@
 # Practica1IPC
 ## Datos generales
 
-- Practica: Practica 1
+- Practica: Práctica 1
 - Curso: Introduccion a la Programacion y Computación 1
 
 ---
